@@ -1,0 +1,11 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+
+# 本地 VS Code 配置（包含你的个人路径）
+.vscode/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
